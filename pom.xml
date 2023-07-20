@@ -13,10 +13,12 @@
         <module>Mahagan-Soft-Service-Dashboard-IOT-Product</module>
         <module>Mahagan-Soft-Service-LightService-IOT-Product</module>
     </modules>
-
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+    <dependencies>
+
+    </dependencies>
 
 </project>
