@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mahagan-Soft-Service-Admin-IOT-Product/Mahagan-Soft-Service-Admin-IOT-Product.iml" filepath="$PROJECT_DIR$/Mahagan-Soft-Service-Admin-IOT-Product/Mahagan-Soft-Service-Admin-IOT-Product.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mahagan-Soft-Service-Dashboard-IOT-Product/Mahagan-Soft-Service-Dashboard-IOT-Product.iml" filepath="$PROJECT_DIR$/Mahagan-Soft-Service-Dashboard-IOT-Product/Mahagan-Soft-Service-Dashboard-IOT-Product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mahagan-Soft-Service-IOT-Product.iml" filepath="$PROJECT_DIR$/Mahagan-Soft-Service-IOT-Product.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mahagan-Soft-Service-LightService-IOT-Product/Mahagan-Soft-Service-LightService-IOT-Product.iml" filepath="$PROJECT_DIR$/Mahagan-Soft-Service-LightService-IOT-Product/Mahagan-Soft-Service-LightService-IOT-Product.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
     </modules>
   </component>
 </project>
