@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="785dd420-3fc3-4ae6-afe3-a28fc11ab621" name="Changes" comment="" />
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitToolBoxStore">
+
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -22,12 +20,7 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feature/KS/20-07-2023" />
-                    <option name="lastUsedInstant" value="1689856259" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1689856258" />
+
                   </RecentBranch>
                 </list>
               </option>
@@ -38,6 +31,7 @@
       </RecentBranches>
     </option>
   </component>
+
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -45,11 +39,12 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2Spur0NFskjkeiB2WCZy4XyrJwk" />
+
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -66,4 +61,5 @@
       <updated>1689856041662</updated>
     </task>
     <servers />
+
 </project>
