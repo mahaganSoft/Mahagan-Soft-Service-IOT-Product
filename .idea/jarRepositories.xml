@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="JSON Lib" />
+      <option name="name" value="JSON Jar" />
+      <option name="url" value="https://mvnrepository.com/artifact/net.sf.json-lib/json-lib" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="a" />
+      <option name="name" value="b" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.hibernate/hibernate-core" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Selenium JARS" />
+      <option name="name" value="Selenium Jar" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="hibernatejars" />
+      <option name="name" value="hibernate Jar" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.hibernate/hibernate-core" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="SeleniumAPI Testing" />
+      <option name="name" value="SeleniumAPI Testing Jar" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="other-repository" />
+      <option name="name" value="OtherRepository Group" />
+      <option name="url" value="https://mvnrepository.com/artifact/io.netty/netty" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss-public-repository" />
+      <option name="name" value="JBoss Public Maven Repository Group" />
+      <option name="url" value="http://repository.jboss.org/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="selenium" />
+      <option name="name" value="Selenium Group" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MySql" />
+      <option name="name" value="MySql Connector Jars" />
+      <option name="url" value="https://mvnrepository.com/artifact/mysql/mysql-connector-java" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="SpringStarter" />
+      <option name="name" value="STS" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-parent" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="POI JARS" />
+      <option name="name" value="poi Group" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.apache.poi/poi" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aaaaa" />
+      <option name="name" value="111111" />
+      <option name="url" value="https://mvnrepository.com/artifact/io.netty/netty" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Mysql JARS" />
+      <option name="name" value="Mysql Connector" />
+      <option name="url" value="https://mvnrepository.com/artifact/mysql/mysql" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Spring Jar" />
+      <option name="name" value="Spring Jar" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.springframework/spring-core" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Spring bean" />
+      <option name="name" value="Springbean jar" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.springframework.beans" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="org.springframework.transaction" />
+      <option name="name" value="transaction Jar" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.springframework/org.springframework.transaction" />
+    </remote-repository>
+  </component>
+</project>
